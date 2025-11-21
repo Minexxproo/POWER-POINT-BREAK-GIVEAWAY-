@@ -11,8 +11,8 @@ from datetime import datetime
 # BOT CONFIGURATION
 # ============================================
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"   # <-- এখানে তোমার Bot Token দেবে
-ADMIN_ID = 123456789                # <-- এখানে তোমার Telegram User ID দেবে
+BOT_TOKEN = "8448847868:AAExU9oq6UTMbqvWm0Ja7u0cHjP5PX-otjI"   # <-- এখানে তোমার Bot Token দেবে
+ADMIN_ID = 5692210187                # <-- এখানে তোমার Telegram User ID দেবে
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
